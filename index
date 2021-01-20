@@ -4,8 +4,15 @@
       <meta charset="utf-8">
     <title>This is my dog</title>
   </head>
+  <style>
+	  h3
+{
+ color: red;   
+}
+  </style>
 <body>
-	<h3>Velizar Kunov </h3>
+	<h3> First edit Velizar Kunov </h3  // just add an h3 tag under this one mate.
+		>
  <h1> This is my very beautiful dog </h1>
  <div>
 	<img src="image/majesticDog.jpg" width="400"  alt="the most majesticDog"><br></div>
@@ -13,7 +20,7 @@
 	 <em>fluff</em>, with <em>orange, white and black coloring</em> all over his body
 	 <br>His ears have an adorable coloration as they are the only place you see black (besides on his nose).</p>
 
-	 <h3> Behavior </h3>
+	 <h2> Behavior </h2>
 	 <p>This ball of fluff can be found in my back yard back home and is one of a kind. 
 		 <br>He can often be seen sunbathing while laying in the snow because he does not understand
 		 the concept of cold or hot.
