@@ -1,2 +1,2 @@
-# prj4-chapter-3
+# my-project
 Here we go again...
