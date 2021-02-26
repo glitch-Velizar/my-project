@@ -1,25 +1,30 @@
-
+* {
+	 margin: 0;
+	  padding: 0;
+	   border: 0; 
+	   font-size: 100%; }
 body {
-	font-family: 'Roboto', sans-serif;
+	font-family: 'RocknRoll One', sans-serif;
 	font-weight: 300;
   }
-	.hero {
+	header {
 	background-image:url("https://content.codecademy.com/projects/make-a-website/lesson-2/bg.jpg");
 	background-size: cover;
 	border-style: solid;
+	padding-bottom: 10px;
+  }
+  .w3-container{
+	  background-color: rgb(153, 144, 131);
   }
  		 #hello{
 	  color: white;
+	  font-size: 100px;
   }
-		#n1 {
-	background-color: rgb(116, 235, 116);
-}
-		#n2 {
-	background-color: orange;
-}
-	.majestic{
+	
+	#majestic{
 	width: 500px;
 	height: 400px;
+	float:right
 }
 		#headlineA {
 	text-align:left;
@@ -30,19 +35,8 @@ body {
 	color:chocolate;
 
 }
-	.assignment2{
-	border-style: solid;
-	background-size:cover;
-	background-image: url("https://ichef.bbci.co.uk/news/1024/cpsprodpb/43D8/production/_111686371_pic1.png");
+footer{
+	background-color: darkgrey;
+	padding-bottom: 59px;
 }
-		#loremipsum{
-	text-align:justify;
-	color: rgb(231, 57, 38);
-}
-		#loremtext{
-	text-size-adjust:initial;
-	color:mediumblue;
-}
-		#proof{
-			color:white
-		}
+
