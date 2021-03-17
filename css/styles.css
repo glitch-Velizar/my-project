@@ -1,42 +1,33 @@
 * {
 	 margin: 0;
-	  padding: 0;
+	 padding: 10px;
 	   border: 0; 
-	   font-size: 100%; }
+	   font-size: 100%;
+	   
+	 }
+	 
 body {
 	font-family: 'RocknRoll One', sans-serif;
 	font-weight: 300;
   }
+
+
 	header {
 	background-image:url("https://content.codecademy.com/projects/make-a-website/lesson-2/bg.jpg");
-	background-size: cover;
 	border-style: solid;
-	padding-bottom: 10px;
+	padding-bottom: 8px;
+	color:white;
   }
-  .w3-container{
-	  background-color: rgb(153, 144, 131);
-  }
- 		 #hello{
-	  color: white;
-	  font-size: 100px;
-  }
-	
-	#majestic{
-	width: 500px;
-	height: 400px;
-	float:right
+  
+
 }
-		#headlineA {
+#headlineB {
 	text-align:left;
 	color: brown;
 }
-		#headlineB {
-	text-align:left;
-	color:chocolate;
 
-}
 footer{
-	background-color: darkgrey;
+	background-color:lightgray;
 	padding-bottom: 59px;
 }
 
