@@ -1,46 +1,31 @@
 * {
-	margin-top: 2;
-	margin-bottom: 2;
-	 padding: 2;
-	  font-size: 100%; }
+	 margin: 0;
+	 padding: 10px;
+	   border: 0; 
+	   font-size: 100%;
+	   
+	 }
+	 
 body {
-   font-family: 'RocknRoll One', sans-serif;
-   font-weight: 300;
- }
-   header {
-   background-image:url("https://content.codecademy.com/projects/make-a-website/lesson-2/bg.jpg");
-   background-size: cover;
-   border-style: solid;
-   padding-bottom: 10px;
- }
- .w3-container{
-	 background-color: rgb(153, 144, 131);
-	 border: 12px solid black;
-border-radius: 10px;
-margin-top: 15px;
-margin-bottom: 15px;
-}
-		 #hello{
-	 color: white;
-	 font-size: 100px;
- }
-   
-   #majestic{
-	width: 200px;
-	height: 200px;
-	object-fit: contain;
-   float:right
-}
-	   #headlineA {
-   text-align:left;
-   color: brown;
-}
-	   #headlineB {
-   text-align:left;
-   color:chocolate;
+	font-family: 'RocknRoll One', sans-serif;
+	font-weight: 300;
+  }
 
+
+	header {
+	background-image:url("https://content.codecademy.com/projects/make-a-website/lesson-2/bg.jpg");
+	border-style: solid;
+	padding-bottom: 8px;
+	color:white;
+  }
+  
+#headlineB {
+	text-align:left;
+	color: brown;
 }
+
 footer{
-   background-color: darkgrey;
-   padding-bottom: 59px;
+	background-color:lightgray;
+	padding-bottom: 59px;
 }
+
