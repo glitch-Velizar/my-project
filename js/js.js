@@ -1,0 +1,1 @@
+This exist only because the github app does not push empty folders
